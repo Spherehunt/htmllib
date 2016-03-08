@@ -1,5 +1,5 @@
 <?php
-
+namespace JonasD\htmllib;
 class Element
 {
   protected $content = '';

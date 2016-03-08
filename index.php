@@ -1,4 +1,6 @@
 <?php
+
+
   require_once('lib/H1.php');
   require_once('lib/H2.php');
   require_once('lib/P.php');
@@ -17,7 +19,7 @@
   require_once('lib/Th.php');
   require_once('lib/Tr.php');
   require_once('lib/Td.php');
-
+use JonasD\htmllib\{Aside, Button, Div, Element, Footer, Form, H1, H2, Header, Hr, Image, Input, Nav, P, Section, Span, Table, Td, Th, Tr};
  ?>
 
 <!DOCTYPE html>

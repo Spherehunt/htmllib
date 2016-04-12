@@ -1,5 +1,4 @@
 <?php
-
 require __DIR__ . '/vendor/autoload.php';
 use JonasD\htmllib\{Aside, Button, Div, Element, Footer, Form, H1, H2, Header, Hr, Image, Input, Nav, P, Section, Span, Table, Td, Th, Tr};
  ?>

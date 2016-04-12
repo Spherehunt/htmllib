@@ -6,5 +6,9 @@
             "email": "jonasdemeulemeester@hotmail.be"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+      "psr-4": {"JonasD\\htmllib\\":"lib/"}
+    }
+
 }

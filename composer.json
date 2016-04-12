@@ -1,0 +1,10 @@
+{
+    "name": "jonasd/demo-app",
+    "authors": [
+        {
+            "name": "Jonas Demeulemeester",
+            "email": "jonasdemeulemeester@hotmail.be"
+        }
+    ],
+    "require": {}
+}

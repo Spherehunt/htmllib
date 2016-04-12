@@ -16,9 +16,10 @@ class Image extends Element
       throw new Exception('Element tag is empty.');
     }
     $properties = '';
-    foreach ($this->properties as $key => $value) {
+    foreach ($this->properties as $key => $value)
+    {
       $properties .= "$key=\"$value\" ";
     }
     return "<$this->tag src=\"$this->src\" alt=\"$this->alt\" $properties>";
-  }
+    }
 }

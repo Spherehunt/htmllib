@@ -1,7 +1,5 @@
 <?php
 namespace JonasD\htmllib;
-require_once("Element.php");
-
 
 // this is a comment, dag wereld
 

@@ -1,6 +1,5 @@
 <?php
 namespace JonasD\htmllib;
-require_once("Element.php");
 
 class Div extends Element
 {

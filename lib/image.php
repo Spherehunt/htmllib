@@ -1,8 +1,6 @@
 <?php
 namespace JonasD\htmllib;
 
-require_once("Element.php");
-
 class Image extends Element
 {
   public function __construct($src,$alt, $properties = array())
